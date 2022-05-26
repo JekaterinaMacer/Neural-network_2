@@ -77,3 +77,5 @@ Neural-network_2
 ### 15	Web-scraping
 
 ### 16	Нормализация данных
+
+### 17	Key-value структура данных
