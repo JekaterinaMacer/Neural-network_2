@@ -312,6 +312,19 @@ https://drive.google.com/file/d/1h9odG880xCk9jk4Eo_11ygVluJsmTnbb/view?usp=shari
 
 ### 17	Key-value структура данных
 
+Цель урока.
+Детально познакомить Вас с подходом хранения данных типа «Ключ-Значение» и преимуществами, которые данная архитектура дает.
+
+Результат урока.
+Вы получите представление о подходе ранения данных типа «Ключ-Значение» и его преимуществами.
+
+В видео рассматриваются: Key-value storage и особенности этого подхода, Use Case, распределенные Key-value storage.
+
+Место в курсе.
+Изучения данной темы важно для работы с современными системами, где важна скорость выдачи информации по ключу.
+Ноутбук: https://drive.google.com/open?id=1EhHnguLrntO2lWT7d0p_xmA0NLDGV_IC
+Презентация: https://docs.google.com/presentation/d/1AOdNJXikmPnvdm3beRaSJfdOYC69RAhl/edit?usp=sharing&ouid=108887502603907522266&rtpof=true&sd=true
+
 ### 18	Схема данных
 
 ### 19	Витрины данных
